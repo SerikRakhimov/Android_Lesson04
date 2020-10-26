@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_food"
+        android:title="Еда" />
+
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_drink"
+        android:title="Напитки" />
+
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_desert"
+        android:title="Десерты" />
+</menu>
